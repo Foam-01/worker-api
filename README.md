@@ -40,3 +40,10 @@ foam
 
    ```bash
    git clone https://github.com/Foam-01/your-repo-name.git
+
+2. Change directory: cd your-repo-name
+3. Install dependencies:  npm install
+4. Create a .env file in the root directory with required environment variables (e.g., PORT, MONGODB_URI).
+5. Start the server:  npm start
+
+   
